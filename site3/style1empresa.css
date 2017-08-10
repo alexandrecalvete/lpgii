@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+.container {
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+#logo img {
+    width: 80%;
+    display: block;
+    float: left;
+}
+
+#logo hl {
+    color: #7c7c7c;
+    font-family; sans-serif;
+    display: block;
+    font-size: 26px;
+    margin-top: 45px;
+    margin-left: 10px;
+}
+
+#extra {
+
+}
+
+#extra-links {
+    float: right;
+    color: #7c7c7c;
+    font-size: 12px;
+}
+
+#extra-links a {
+    color: #7c7c7c;
+    text-decoration: nome;
+} 
+
+#extra-links a:houver {
+    color: #3c3c3c;
+} 
+
+#extra-contact {
+    clear: both;
+    float: right;
+    color: #069bbb;
+    text-transform: lowercase;
+    font-size: 11px;
+    margin: 10px 0 0 0;
+}
+
+#extra-phone {
+    clear: both;
+    float: right;
+    font-size: 18px;
+    margin: 0;
+}
+
+#extra-phone img {
+    
+}
